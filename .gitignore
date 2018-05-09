@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!.gitattributes
+!readme.md
+!gdalinfo_fveg15_1.tif.txt
+
+!*/
+
+# ...even if they are in subdirectories
+!arc-tif/arc_fveg15_1.tif.zip
