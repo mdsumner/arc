@@ -5,7 +5,10 @@ Here is an example ESRI Geodatabase (GDB) data source with a raster.
 
 http://frap.fire.ca.gov/data/frapgisdata-sw-fveg_download
 
-Direct download: http://frap.fire.ca.gov/data/statewide/fveg15_1.zip
+Direct download: https://filelib.wildlife.ca.gov/Public/BDB/GIS/BIOS/Public_Datasets/1300_1399/ds1327.zip ~http://frap.fire.ca.gov/data/statewide/fveg15_1.zip~
+
+**Note direct download changed, this updated 2021-05-11**
+
 
 This was converted to GeoTIFF using ArcGIS, the resulting files are in **arc-tif/arc_fveg15_1.tif.zip**.  (184Mb)
 
